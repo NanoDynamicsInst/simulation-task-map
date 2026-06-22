@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as below."
+title: "Open Feynman-Path Molecular Nanotechnology: capability framework, prize reframe, and verifiable-task V&V"
+abstract: >-
+  A material-agnostic, capability-based reframing of the Feynman Grand Prize,
+  a generalized capability-axes and characterization framework for productive
+  nanosystems, and the machine-verifiable V&V data for the Feynman-Path
+  (molecular-manipulator / mechanosynthesis) pursuit.
+authors:
+  - name: "Nano Dynamics Institute"
+    website: "https://nanodynamics.institute"
+license: Apache-2.0
+date-released: "2026-06-16"
+version: "0.1"
+keywords:
+  - molecular nanotechnology
+  - mechanosynthesis
+  - productive nanosystems
+  - Feynman Grand Prize
+  - verification and validation

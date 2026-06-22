@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+.*.swp
+# Python / GPD runtime scratch
+__pycache__/
+*.pyc
+.venv/
+/extractions/
+/tmp/
+# GPD local state that should not be committed if a runtime writes it
+GPD/_local/

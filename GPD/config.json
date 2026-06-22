@@ -1,0 +1,6 @@
+{
+  "model_profile": "deep-theory",
+  "model_overrides": {},
+  "_scope": "Open Feynman-Path molecular-manipulator / mechanosynthesis physics (NDI, 501(c)(3)).",
+  "_seed_note": "NDI-authored seed for GPD ingestion. 'deep-theory' suits the analytical arm/adder/stiffness phases; switch to 'numerical' for device simulations, yield statistics, and the fluid->vacuum transition. Let GPD's map-research / validators canonicalize this file."
+}
