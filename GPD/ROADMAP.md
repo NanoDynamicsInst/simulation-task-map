@@ -15,7 +15,7 @@ Hierarchy: Milestone -> Phase -> Plan (leaf) -> Task. Waves = execution order wi
   dimensions, screening-length limit, breakdown margin. **Wave 1.**
 - **Phase 3 — FET displacement sensing & the screening window** [A7.1, A7.2, A7.4]. Information-theoretic SNR bound for charge-
   displacement sensing vs bandwidth; device simulation of FET sensitivity vs distance/screening.
-  Add the **coupled actuation-vs-sensing operating-window proof (A7.4)**: one Poisson-Boltzmann calculation showing an ionic-strength window (spermidine Mg2+-free or low-Mg + CPD crosslink) that meets actuator stroke >=10 nm AND FET SNR>=10 at >=1 kHz simultaneously. *Verify:* SNR limits, Debye-length/attenuation vs Mg2+, dimensional consistency. **Wave 1 — the closed-loop's critical element; resolves the actuator-needs-ions vs sensor-needs-low-screening conflict.**
+  Add the **coupled actuation-vs-sensing operating-window proof (A7.4)**: one Poisson-Boltzmann calculation showing an ionic-strength window (spermidine Mg2+-free or low-Mg + CPD crosslink) that meets actuator stroke >=3 nm AND FET SNR>=10 at >=1 kHz simultaneously. *Verify:* SNR limits, Debye-length/attenuation vs Mg2+, dimensional consistency. **Wave 1 — the closed-loop's critical element; resolves the actuator-needs-ions vs sensor-needs-low-screening conflict.**
 - **Phase 4 — Mechanism & structure** [A3.1, A3.2, A8.1, A8.2]. DOF/mobility for a parallel (delta-type)
   manipulator; workspace & singularity map; <=100 nm envelope; structural-mode/rigidity consistency with
   Phase 1; identify the DOMINANT compliance term (joint compliance, not lever length) and budget stiffness at the joints. *Verify:* mobility count, mode stiffness, envelope. **Wave 2 (after 1).**
